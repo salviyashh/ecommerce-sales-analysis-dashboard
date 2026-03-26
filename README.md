@@ -36,12 +36,3 @@ The dashboard tracks five primary metrics for high-level decision-making:
 * **Data Manipulation:** SQL / Power Query
 * **Domain:** E-commerce Data Analytics
 
-## 💡 Business Insights
-* **Profitability Focus:** While "Office Supplies" has high volume, "Technology" yields significantly higher profit margins.
-* **Market Opportunity:** Identifying low-performing states in the "Sales by State" chart suggests areas where marketing efforts could be intensified.
-* **Inventory Management:** High-performing subcategories like "Copiers" should be prioritized for inventory stocking.
-
-## 📂 Project Structure
-* `yash dashboard.png`: High-resolution screenshot of the final dashboard.
-* `data/`: (Optional) Folder containing the raw or processed datasets.
-* `scripts/`: (Optional) Any SQL queries or Python scripts used for data cleaning.
