@@ -44,5 +44,3 @@ The dashboard tracks five primary metrics for high-level decision-making:
 
 ---
 
-### **How to Elevate This Project:**
-Since you are preparing for **technical vivas**, would you like me to provide a list of **SQL queries** or **data definitions** that could have generated this specific data? This would help you explain the "back-end" logic to an interviewer.
