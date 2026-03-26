@@ -1,8 +1,7 @@
-Here is a professional, structured **README.md** file for your **Ecommerce Sales Analysis Dashboard**. It is designed to be copy-pasted directly into your GitHub repository or shared in your portfolio.
-
----
-
 # Ecommerce Sales Analysis Dashboard 📊
+
+## 🖼️ Dashboard Preview
+![Ecommerce Sales Dashboard](https://raw.githubusercontent.com/salviyashh/ecommerce-sales-analysis-dashboard/main/yash%20dashboard.png)
 
 ## 📌 Project Overview
 This project provides a comprehensive, data-driven overview of an e-commerce business's performance. By visualizing key metrics like sales, profit margins, and regional trends, this dashboard enables stakeholders to identify growth opportunities and optimize operational efficiency.
@@ -33,8 +32,8 @@ The dashboard tracks five primary metrics for high-level decision-making:
 * **Customer Segment:** Breakdown by Consumer, Corporate, and Home Office.
 
 ## 🛠️ Tools Used
-* **Data Visualization:** [Insert Tool Name: e.g., Power BI / Tableau / Excel]
-* **Data Manipulation:** [Insert Tool Name: e.g., SQL / Excel Power Query]
+* **Data Visualization:** Power BI / Excel
+* **Data Manipulation:** SQL / Power Query
 * **Domain:** E-commerce Data Analytics
 
 ## 💡 Business Insights
@@ -42,5 +41,7 @@ The dashboard tracks five primary metrics for high-level decision-making:
 * **Market Opportunity:** Identifying low-performing states in the "Sales by State" chart suggests areas where marketing efforts could be intensified.
 * **Inventory Management:** High-performing subcategories like "Copiers" should be prioritized for inventory stocking.
 
----
-
+## 📂 Project Structure
+* `yash dashboard.png`: High-resolution screenshot of the final dashboard.
+* `data/`: (Optional) Folder containing the raw or processed datasets.
+* `scripts/`: (Optional) Any SQL queries or Python scripts used for data cleaning.
